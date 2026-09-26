@@ -159,7 +159,7 @@ Quando a lei **autoriza** a capitalização, o juro vencido e capitalizado **dei
 $$J = C_{95} \times FC \times \sum_k i_k \cdot t_k$$
 
 - $C_{95}$ = saldo homologado;
-- $FC$ = fator da Tabela Prática (6,409736469 de out/1995 a mar/2026, **conferido**);
+- *FC* = fator da Tabela Prática (6,409736469 de out/1995 a mar/2026, **conferido**);
 - $i_k$ = taxa legal de cada período (0,5% a.m. até 10/01/2003; 1% a.m. até 08/2024; taxa legal da Lei 14.905/2024 depois);
 - $t_k$ = tempo de cada período.
 
