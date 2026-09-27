@@ -499,3 +499,18 @@ Ver "PRIMEIRO PASSO" (grupos 1 e 2). Prioridade: (1) contraminuta; (2) sentença
 ## Páginas lidas / não verificado
 
 Páginas lidas por arquivo: ver a tabela inicial. **Não consegui verificar:** fls. 27-30, 32-38, 41-51 (só rendidas, não lidas); 116 de 119 páginas de "pag 55 a 173"; fls. 166/167; fls. 185/186 (habilitação Bradesco); fls. 205 a 900 (nenhum arquivo cobre); fls. 651; 771/785; 1500/1505 (imagem); 1924/1931 (AREsp na CP); 2140/2200 (cópias juntadas pelo Santander); 3404 (fim do acórdão); contraminuta; apelação 0017993-79.2012; sentença e acórdão dos embargos 0015252; Resolução 549/2011 e RITJSP; os seis julgados do grupo 2 de faltantes. Tudo o que está marcado 🟩 foi conferido em imagem ou em texto com camada verificada; o que está 🟨 depende desses itens.
+
+
+---
+
+## SÍNTESE FINAL (enviada no chat em 27/09/2026)
+
+**Os cinco achados que mudam a estratégia**
+
+1. 🟥 A premissa "a base sempre foi a conta de 1995" não se sustenta nos autos. Todas as planilhas lidas partem de Cz$ 1.210.000,00 em maio/1987: Santander em 2007 (fls. 2137/2139 e-SAJ, CP 600/602 / 148/150 física) e 2009 (fls. 2402/2403), cessionários em 2019 (fls. 2885), 19/04/2024 (fls. 1948) e 04/06/2025 (fls. 3078). O Santander escreveu em 2007: "inobstante a existência de decisão homologada nos autos principais (…) por mera liberalidade, optou o credor" por calcular desde 1987. A única invocação da base de 1995 antes de 2026 é a resposta à exceção de 16/09/2024 (fls. 1538). O pedido de homologar R$ 185 milhões precisa ser abandonado; o pedido viável é "base de 1995 + perícia na origem".
+2. 🟩 A origem dos 20% de honorários é a sentença dos Embargos à Execução (03/05/1991), e o próprio executado confessou isso (fls. 1419/1421 e-SAJ). Fls. 52 é ilegível e três documentos coevos (cédula, inicial, mandado) dizem 10%. A afirmação do agravo sobre fls. 52 deve ser retificada nos memoriais.
+3. 🟩 A contradição interna de fls. 3064/3066 é literal: o juiz declarou a matéria "nova" e "imprópria a via" e, no mesmo ato, decidiu-a de ofício no item 2.
+4. 🟩 A jurisprudência do STJ sobre "erro material x critério" é uniforme e favorável (EDcl e EREsp 1.229.406/SP; AgInt no REsp 2.127.021/DF; AgInt no AREsp 2.500.976/PR). Dois arquivos do Drive estão trocados: "AgInt no AgInt no AREsp 1539138" contém fls. 786/790 dos autos, e "Registro 2021-0000902160 NAO PODE COBRAR JUROS" diz o oposto do título.
+5. 🟨 Ponto fraco real da conta de 1995: mora de 1% ao mês capitalizada, quando o DL 413/69, art. 5º, parágrafo único, limita a elevação a 1% ao ano. Defesa: critério preclusão, não erro material.
+
+**Itens pendentes para fechar os 🟨:** contraminuta; sentença e acórdão dos Embargos 0015252 (fls. ~2140/2160 e-SAJ ou fls. 32/47 e 85 dos embargos digitalizados); fls. 3404; fls. 651, 655/673, 771/785, 1924/1931 e 1500/1505; arquivo correto do AREsp 1.539.138 e os julgados 1.455.741, 1.851.737, AI 2181564-67.2026 e AI 2297076-69.2024; Apelação 0017993-79.2012; Resolução TJSP 549/2011; leitura completa de "pag 55 a 173".
