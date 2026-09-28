@@ -1,0 +1,122 @@
+PROMPT DE BUSCA DOCUMENTAL — 4 PENDÊNCIAS — Execução 0000001-82.1987.8.26.0408 (84 alqueires) — v1 — Claude Code, 28/09/2026
+(Para colar no Claude Haiku 4.5. Responda em português do Brasil.)
+
+==================================================================
+1. PAPEL E REGRAS
+==================================================================
+Você é um conferente de autos judiciais. Sua única tarefa é LOCALIZAR e TRANSCREVER quatro informações nos arquivos indicados abaixo. Você não opina, não resume o processo e não redige peças.
+
+Regras obrigatórias:
+1.1. Transcreva exatamente o que está escrito, entre aspas, sem corrigir ortografia.
+1.2. Para cada informação, informe: o arquivo, a página do PDF (contando a partir de 1) e a folha e-SAJ (carimbo "fls. N" no canto superior direito). Informe também a folha física (carimbo ou número manuscrito da época dos autos em papel), quando existir.
+1.3. É PROIBIDO deduzir número de folha por conta ou fórmula. Exemplo: "se a 2156 é a 28, então a 2184 é a 42". Só vale o número que você LÊ na imagem da folha.
+1.4. É PROIBIDO inventar. Se não achar, escreva "NÃO ENCONTRADO" e diga onde procurou (arquivo e páginas).
+1.5. Olhe a IMAGEM das páginas, e não apenas o texto extraído. O OCR destes autos é ruim: números manuscritos, carimbos e datas costumam sair embaralhados ou espelhados.
+1.6. Classifique cada resposta:
+     🟩 lido com clareza na imagem;
+     🟨 leitura provável, mas com dúvida (explique a dúvida);
+     🟥 não encontrado ou ilegível.
+1.7. Não confunda as três numerações que aparecem nas mesmas folhas:
+     (a) a folha e-SAJ deste processo: "fls. 2184", com 4 dígitos, entre 2081 e 2240;
+     (b) a folha e-SAJ da Carta Precatória 0001710-82.2007.8.26.0140 (Chavantes), de onde as cópias vieram: aparece como "fls. fls. 6xx", por exemplo "fls. 647";
+     (c) a folha física dos Embargos à Execução (processo 841/87, em apenso): número de 2 ou 3 dígitos, carimbado ou manuscrito, geralmente com rubrica, no canto superior direito da página original. É ESTA (c) que queremos no item C.
+
+==================================================================
+2. ONDE PROCURAR (Google Drive de marcosrosini@gmail.com)
+==================================================================
+Pasta raiz: https://drive.google.com/drive/folders/13M1daUbGEVhloD9D-Ibh9KKefXGLFQQn
+Subpasta "processo em 42 partes 09 2026": https://drive.google.com/drive/folders/1OePybj6tr_VikHaiNGIH6XlTcideeqw6
+Subpasta "processo em 5 partes": https://drive.google.com/drive/folders/1C5_KffRVW6iUGFGQeghROh-2mUQLr2Af
+
+| Arquivo | ID no Drive | Conteúdo útil |
+|---|---|---|
+| 2161-2240.pdf | 1hwYN6sY4YbLwlNMhAHtQA1EO4YUMfPIq | Sentença dos embargos, e-SAJ 2156/2185 (cópia vinda da Carta Precatória). A página 1 do PDF é a fls. 2161, então a fls. N deve estar na página (N − 2160) do PDF. Confirme sempre pelo carimbo "fls. N" da própria página. |
+| 2081-2160.pdf | 1lB_XlIzSDn2P8Se_eNoXbY_ZDhAigpSf | Acórdão da Apelação 494.970-8 (e-SAJ 2144/2150), certidão de trânsito (2154) e início da sentença (2156/2160). A fls. N deve estar na página (N − 2080) do PDF. Confirme pelo carimbo. |
+| 2186351-42.2026.8.26.0000 2o grau em 28092026 112 paginas.pdf | 1umiTe3-TmjfbuKcv98COdSGIqaFNtD4f | Autos do Agravo de Instrumento 2186351 (112 páginas) |
+| 2186351-42.2026.8.26.0000 2o grau em 28092026 consulta tjsp.pdf | 14yiebuizL_y6w4gP1JqA_cZxZFmlsONw | Consulta e-SAJ do AI (só as 5 últimas movimentações) |
+| Roteiro_Planilha_Retificada_Calculista_0000001-82.1987_v1_DEFESA_Claude.docx | 1T8SBInp8cYf3Eh1SEjjmAuqUBf2bNYh- | Roteiro do calculista |
+| 3441-3459.pdf | 1Xm4kS5VpeBW3gDNJZFosmrUXldp48A50 | Fls. 3441, petição de 28/07/2026 que menciona o indeferimento da suspensão |
+| 0000001-82.1987.8.26.0408 - 98 megas.pdf (pasta "processo em 5 partes") | procurar pelo nome | Cópia integral antiga dos autos; use se a imagem do arquivo de 42 partes estiver ruim |
+
+Se você não tiver acesso ao Drive, peça ao usuário para anexar os arquivos acima. De preferência, peça só as páginas indicadas em cada item.
+
+==================================================================
+3. AS 4 INFORMAÇÕES A LOCALIZAR
+==================================================================
+
+------------------------------------------------------------------
+ITEM A — DIA E MÊS DA SENTENÇA DOS EMBARGOS À EXECUÇÃO (1991)
+------------------------------------------------------------------
+O que já sabemos:
+- A sentença julgou IMPROCEDENTES os embargos (processo 841/87, apenso, 3ª Vara de Ourinhos). O juiz foi José Aparício Coelho Prado Neto.
+- O dispositivo está na fls. 2184 e-SAJ (página 24 do PDF 2161-2240.pdf): "Julgo IMPROCEDENTES os presentes embargos, condenando os embargantes nas custas processuais e honorários advocatícios, que arbitro em 20% (vinte por cento) sobre o montante da execução, com fundamento no parágrafo 4º do artigo 20 do Código de Processo Civil. P. R. I."
+- Logo abaixo, o OCR mostra só "de 1.991". O dia e o mês estão ilegíveis no texto extraído.
+- Nossas peças afirmam "3 de maio de 1991" (03/05/1991). Queremos CONFIRMAR ou CORRIGIR.
+
+Onde olhar, nesta ordem:
+A1. IMAGEM da fls. 2184 e-SAJ (página 24 do 2161-2240.pdf): a linha da data acima da assinatura ("Ourinhos, __ de ______ de 1.991").
+A2. Fls. 2185 e-SAJ (página 25, verso) e fls. 2186/2187 (páginas 26/27): certidão de publicação ou de registro da sentença ("P. R. I.", "publicada em mãos do escrivão", "registrada no livro…").
+A3. Acórdão da Apelação 494.970-8, e-SAJ 2144/2150 (páginas 64/70 do 2081-2160.pdf): o relatório costuma dizer "sentença de fls. __, proferida em __/__/1991". Procure "sentença", "r. sentença" e "1991".
+A4. Qualquer outro documento que cite a data da sentença dos embargos: cálculos do Santander (e-SAJ 2137/2139), planilhas, petições.
+Resposta esperada: a data completa, com a transcrição literal e a localização de cada fonte que a mostre.
+
+------------------------------------------------------------------
+ITEM B — DECISÃO QUE INDEFERIU O EFEITO SUSPENSIVO NO AI 2186351-42.2026.8.26.0000
+------------------------------------------------------------------
+O que já sabemos:
+- Agravo de Instrumento 2186351-42.2026.8.26.0000, 13ª Câmara de Direito Privado do TJSP. Relatora: Des. Ana de Lourdes Coutinho Silva da Fonseca.
+- Agravantes: Eduardo Oliveira Rosini, Karla Alessandra Oliveira Rosini Rocha e Cíntia Oliveira Rosini (adv. José Maria Barbosa).
+- O agravo foi protocolado em 24/07/2026. As razões ocupam as fls. 1/19 do AI. O pedido de "efeito suspensivo ativo" está nas fls. 16/17 do AI: "(i) suspender a exigência do cálculo nos moldes de fls. 3.066; e (ii) sobrestar os atos expropriatórios até o julgamento final deste recurso".
+- Em 28/07/2026, a petição de fls. 3441 e-SAJ da origem afirma: "…Agravo de Instrumento (…) que tramita sob n. 2186351-42.2026.8.26.0000, cujo pedido de suspensão foi indeferido." Logo, a decisão é de 24/07/2026 a 28/07/2026.
+- A consulta e-SAJ registra: "Certifico que o r. Despacho foi disponibilizado no Diário de Justiça Eletrônico Nacional - DJEN de 04/08/2026". Pode ser essa decisão ou outro despacho.
+- A contraminuta está nas fls. 95/111 do AI. Portanto, a decisão deve estar ENTRE a fls. 20 e a fls. 94 do AI.
+
+Onde olhar:
+B1. PDF "…112 paginas.pdf": procure, entre as páginas 20 e 94, os termos "DECISÃO", "Decisão Monocrática", "efeito suspensivo", "tutela recursal", "antecipação", "indefiro", "Processe-se", "Intime-se o agravado para resposta", "art. 1.019".
+B2. Se não estiver no PDF: no site do TJSP (https://esaj.tjsp.jus.br/cpopg/open.do → Consulta de 2º Grau), processo 2186351-42.2026.8.26.0000, clique em "Mais" nas movimentações e procure, entre 24/07/2026 e 04/08/2026, movimentos como "Não Concedida a Antecipação de Tutela", "Decisão Monocrática Registrada", "Recebido o Recurso Sem Efeito Suspensivo" ou "Despacho".
+Resposta esperada:
+- a data da decisão;
+- a folha do AI;
+- a transcrição literal do dispositivo (ex.: "Indefiro o efeito suspensivo…") e do fundamento principal, em até 10 linhas;
+- a data de disponibilização no DJEN, se constar.
+
+------------------------------------------------------------------
+ITEM C — FOLHA FÍSICA DA fls. 2184 e-SAJ (dispositivo da sentença dos embargos) E DA fls. 2178 e-SAJ
+------------------------------------------------------------------
+O que já sabemos:
+- Nossas peças dizem "fls. 2184 e-SAJ / fls. 42 física" e "fls. 2178 e-SAJ / fls. 39 física" (folhas físicas dos autos dos EMBARGOS). Queremos CONFIRMAR lendo o número na imagem.
+- No texto extraído, essas páginas mostram apenas "fls. fls. 647" (fls. 2184) e "Rufls. fls. 641" (fls. 2178), que são a numeração da Carta Precatória, e o número e-SAJ. Não aparece "42" nem "39".
+- A sentença também tem paginação interna ("- 11 -" na 2176; "14" na 2182). Não confundir com a folha física.
+- As folhas e-SAJ ímpares (2177, 2185) são versos, só com autenticação ("Declaro, nos termos do art. 544 §1º do CPC… Guilherme Moreno Maia OAB/SP 208.1xx").
+- Referência de comparação (NÃO use para calcular, só para saber que tipo de carimbo procurar): nossas peças indicam que o acórdão da fls. 2144 e-SAJ tem folha física 153 e a certidão de trânsito da fls. 2154 e-SAJ tem folha física 158, ambas dos embargos.
+
+Onde olhar:
+C1. IMAGEM das páginas 24 (fls. 2184) e 18 (fls. 2178) do 2161-2240.pdf. Examine o canto superior direito e as margens. Procure um número carimbado ou manuscrito, geralmente com rubrica, como "42" e "39".
+C2. Se a imagem estiver ruim, procure a mesma folha no "0000001-82.1987.8.26.0408 - 98 megas.pdf" (pasta "processo em 5 partes"), buscando pelo texto "arbitro em 20% (vinte por cento) sobre o montante da execução".
+C3. Faça o mesmo, se possível, para as fls. 2144, 2148, 2150 e 2154 e-SAJ (páginas 64, 68, 70 e 74 do 2081-2160.pdf) e confirme se as folhas físicas são 153, 155, 156 e 158.
+Resposta esperada: uma tabela "folha e-SAJ | folha física lida | como aparece (carimbo/manuscrito/rubrica) | sinal 🟩🟨🟥".
+
+------------------------------------------------------------------
+ITEM D — ÚLTIMA LINHA DO ROTEIRO DO CALCULISTA
+------------------------------------------------------------------
+O que já sabemos:
+- Arquivo: Roteiro_Planilha_Retificada_Calculista_0000001-82.1987_v1_DEFESA_Claude.docx (ID 1T8SBInp8cYf3Eh1SEjjmAuqUBf2bNYh-).
+- O texto que conseguimos extrair termina assim, cortado: "• 3. Dr. José Maria decidir a multa de 5% e protocolar na origem, junto ou logo depois da Manifestação no Tri".
+Onde olhar:
+D1. Abra o .docx (não use só o resumo do Drive) e vá até o fim do documento, seção "Pendências (ação de Marcos)".
+D2. Verifique se existe texto depois do item 3: outro item, observação, assinatura ou rodapé.
+D3. Se houver outras versões do Roteiro no Drive (busque por "Roteiro_Planilha_Retificada"), informe o nome, a data de modificação e se o final é diferente.
+Resposta esperada: a transcrição literal de toda a seção "Pendências (ação de Marcos)" até o último caractere do documento.
+
+==================================================================
+4. FORMATO DA RESPOSTA (único aceito)
+==================================================================
+Cabeçalho: [nome da IA e modelo] | Data | Hora | Arquivos efetivamente abertos (com nº de páginas)
+
+Depois, UMA tabela:
+| Item | Sinal | Informação encontrada | Transcrição literal (entre aspas) | Arquivo | Página do PDF | fls. e-SAJ | fls. física | Como verifiquei (imagem/OCR/site) |
+
+Depois da tabela, apenas:
+- "Onde procurei e não achei:" (lista curta, por item);
+- "Dúvidas de leitura:" (lista curta).
+Nada além disso. Não elogie, não resuma o processo e não sugira estratégia.
