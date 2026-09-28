@@ -17,6 +17,7 @@
 - **Folhas do agravo:** "fls. N do AI". São peças digitais, sem folha física.
 - **Folhas da origem:** "fls. N e-SAJ / fls. X física". Peças nascidas digitais não têm folha física e aparecem como "(digital)".
 - **Folhas das cópias da Carta Precatória:** "fls. N e-SAJ / fls. X física (embargos)". A folha física é o carimbo manuscrito dos autos dos embargos, processo 841/87, apenso.
+- **Acórdão do AI 2353386 na origem:** há duas cópias. A primeira, juntada pelos exequentes em 05/03/2026, está em fls. 3395/3406 e-SAJ. A segunda, trasladada pelo cartório em 23/04/2026 com a certidão de trânsito, está em fls. 3422/3434 e-SAJ, e é a que a decisão agravada cita. Este relatório usa a segunda. Correspondência: fls. 3403 = 3430; 3404 = 3431; 3405 = 3432; 3406 = 3433.
 - **Sinais:** 🟩 conferido no documento; 🟨 depende de conferência adicional; 🟥 falso, contrário ou perigoso.
 - **Jurisprudência:** só são citados julgados lidos na íntegra na pasta do Drive. Nenhum julgado foi criado.
 
@@ -26,7 +27,7 @@
 
 **A contraminuta é fraca no mérito e contém uma afirmação falsa grave, mas acerta no ponto processual mais sensível.**
 
-1. 🟥 **Afirmação falsa: "não houve embargos à execução"** (fls. 104 do AI). Os embargos existiram, foram julgados improcedentes em 03/05/1991 e a apelação foi desprovida em 05/10/1993, com trânsito certificado em 10/11/1993 (fls. 2144/2184 e-SAJ). A própria advocacia do executado admitiu isso em 02/05/2024 (fls. 1419/1421 e-SAJ). É alteração da verdade dos fatos (CPC, art. 80, II), a mesma conduta pela qual a Relatora já manteve multa de 5% por "reincidência" (fls. 3403/3405 e-SAJ).
+1. 🟥 **Afirmação falsa: "não houve embargos à execução"** (fls. 104 do AI). Os embargos existiram, foram julgados improcedentes em 03/05/1991 e a apelação foi desprovida em 05/10/1993, com trânsito certificado em 10/11/1993 (fls. 2144/2184 e-SAJ). A própria advocacia do executado admitiu isso em 02/05/2024 (fls. 1419/1421 e-SAJ). É alteração da verdade dos fatos (CPC, art. 80, II), a mesma conduta pela qual a Relatora já manteve multa de 5% por "reincidência" (fls. 3430/3432 e-SAJ).
 2. 🟥 **Tese central errada: "em execução de título extrajudicial não há homologação de cálculo"** (fls. 100, 102, 105/106 e 111 do AI). A sentença dos embargos, transitada em julgado, determinou que "o 'quantum' exeqüendo será apurado por cálculo a ser elaborado pelo Juízo com base no contrato, que, após manifestações das partes, deverá ser homologado por decisão" (fls. 2178 e-SAJ / fls. 39 física). A homologação de 23/11/1995 (fls. 203 e-SAJ / 152 física) cumpriu esse comando.
 3. 🟥 **Tese do anatocismo coberta por coisa julgada.** A mesma sentença julgou improcedentes as alegações "contra as taxas de juros estipuladas, bem como sua forma de contagem" e afastou o anatocismo (fls. 2178 e-SAJ). O acórdão de 1993 validou a taxa de 57,18% ao ano (fls. 2148 e-SAJ / fls. 155 física). A contraminuta não menciona nenhuma dessas peças.
 4. 🟥 **"Anuência expressa" inexistente.** A petição de fls. 3077 e-SAJ (digital; protocolo 13/06/2025) diz apenas "em atendimento a r. decisão (…), requerer a juntada da planilha". Não contém nenhuma palavra de concordância. Depois do agravo, a petição de fls. 3441 e-SAJ (28/07/2026) fez **ressalva expressa** do recurso, e a própria contraminuta a transcreve (fls. 110 do AI).
@@ -113,10 +114,10 @@
 
 **Pedido possível (decisão estratégica do cliente):**
 
-- **Opção 1 (recomendada):** apontar a falsidade, juntar as provas e pedir que a Câmara a considere na valoração da contraminuta, com menção à "reincidência" já reconhecida pela Relatora no AI 2353386-61.2025 (fls. 3404/3405 e-SAJ, digital). Não pedir multa expressamente.
+- **Opção 1 (recomendada):** apontar a falsidade, juntar as provas e pedir que a Câmara a considere na valoração da contraminuta, com menção à "reincidência" já reconhecida pela Relatora no AI 2353386-61.2025 (fls. 3431/3432 e-SAJ, digital). Não pedir multa expressamente.
 - **Opção 2:** pedir condenação do executado por litigância de má-fé (arts. 80, II, e 81). É mais agressivo e simétrico ao pedido dele, mas pode parecer retaliação.
 
-Em ambas, citar fls. 3403 e-SAJ, e não fls. 3404, porque esta traz o lapso "por parte do exequente".
+Em ambas, citar fls. 3430 e-SAJ, e não fls. 3431, porque esta traz o lapso "por parte do exequente".
 
 ### 5.B. A homologação de 1995 existe, é válida e cumpre sentença transitada em julgado 🟩
 
@@ -138,7 +139,7 @@ Em ambas, citar fls. 3403 e-SAJ, e não fls. 3404, porque esta traz o lapso "por
 4. **O STJ trata a homologação de cálculos em execução como decisão sujeita a preclusão.**
    - AgInt no REsp 1.455.741/DF (4ª T., Rel. Min. Raul Araújo, sessão virtual de 26/05 a 01/06/2020, v.u.), em execução por quantia certa: "A decisão que delimita os cálculos e determina o envio dos autos à contadoria possui natureza jurídica de decisão interlocutória e, por conseguinte, sujeita-se a agravo de instrumento, sob pena de preclusão."
    - O executado nunca agravou da homologação de 1995.
-5. **A própria Relatora já aplicou a mesma lógica contra o executado.** Na homologação da avaliação, ela reconheceu "o manto da preclusão pro iudicato" e o "retrocesso indevido" de reabrir a matéria (AI 2353386-61.2025, fls. 3395/3403 e-SAJ). O trânsito do AREsp 2.456.018/SP, em 30/11/2023, tornou definitiva aquela homologação (fls. 1930 e-SAJ, digital).
+5. **A própria Relatora já aplicou a mesma lógica contra o executado.** Na homologação da avaliação, ela reconheceu "o manto da preclusão pro iudicato" e o "retrocesso indevido" de reabrir a matéria (AI 2353386-61.2025, fls. 3422/3430 e-SAJ; trânsito em julgado em 31/03/2026, certificado em fls. 3434 e-SAJ). O trânsito do AREsp 2.456.018/SP, em 30/11/2023, tornou definitiva aquela homologação (fls. 1930 e-SAJ, digital).
 
 ⚠️ **Cuidado 🟨.** A sentença também diz que "o contrato exeqüendo não contempla tal anomalia" (anatocismo). O executado pode usar a frase contra a capitalização mensal da conta de 1995. Citar sempre o trecho sobre a "forma de contagem (…) como reclamada pelo embargado", e não isolar essa frase. Se ela for invocada: a divergência entre a conta homologada e a sentença seria erro de critério, coberto pela preclusão, e não erro material (EDcl no REsp 1.229.406/SP; AgInt no REsp 2.127.021/DF).
 
@@ -228,7 +229,7 @@ As três afirmações não convivem. Se a decisão não desconsiderou o saldo de
 | 9 | Petição de fls. 3441 (ressalva do agravo) | 3441 e-SAJ (digital) | Citar (a contraminuta já a reproduz) |
 | 10 | Admissão do executado sobre os embargos | 1419/1421 e-SAJ (digital) | Citar e transcrever |
 | 11 | Fls. 3065/3066 (matéria "nova" e item 2) | 3065/3066 e-SAJ (digital) | Citar |
-| 12 | Acórdão AI 2353386 (multa 5%; reincidência) | 3403/3405 e-SAJ (digital) | Citar |
+| 12 | Acórdão AI 2353386 (multa 5%; reincidência) | 3430/3432 e-SAJ (digital); acórdão completo em fls. 3422/3433 e certidão de trânsito em fls. 3434 | Citar |
 
 ---
 
@@ -246,7 +247,7 @@ As três afirmações não convivem. Se a decisão não desconsiderou o saldo de
 | EDcl no REsp 2.178.097/RS | STJ, 4ª T., Rel. Min. Raul Araújo, j. 25/05/2026 | idem | 🟩 |
 | REsp 1.655.655/SP | STJ, 3ª T., Rel. Min. Villas Bôas Cueva, j. 25/06/2019 | na dúvida, exclui-se a aquiescência | 🟩 |
 | TJSP AI 2236642-80.2025 | 13ª CDP, Rel. Ana de Lourdes C. S. da Fonseca, j. 07/10/2025 | "única tese"; "indevida inovação"; houve recurso do executado | 🟩 |
-| TJSP AI 2353386-61.2025 | 13ª CDP, mesma Relatora, j. 04/03/2026 | "preclusão pro iudicato"; "retrocesso indevido"; multa de 5% por "reincidência" | 🟩 |
+| TJSP AI 2353386-61.2025 | 13ª CDP, mesma Relatora, j. 04/03/2026; trânsito em 31/03/2026 (fls. 3422/3434 e-SAJ) | "preclusão pro iudicato"; "retrocesso indevido"; multa de 5% por "reincidência" | 🟩 |
 | AREsp 2.456.018/SP | STJ, Presidência, 03/11/2023; trânsito em 30/11/2023 | recursos protelatórios do executado | 🟩 |
 | TJSP AI 2297076-69.2024 | 19ª CDP, Rel. Jairo Brazil, j. 31/10/2024 | distinguir, se citado (ato sem ressalva) | 🟨 contra |
 | REsp 1.538.235/DF | STJ, 3ª T., Rel. Min. Nancy Andrighi, j. 14/05/2019 | **não citar**. É contrário; distinguir só se o executado o invocar | 🟥 |
