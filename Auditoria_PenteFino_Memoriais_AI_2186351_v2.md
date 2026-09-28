@@ -2,7 +2,7 @@
 
 **Claude Fable 5.1 (Anthropic) | Data: 27/09/2026 | Hora: 21:24:16 (Brasília) | Chat: Auditoria EPE Ourinhos**
 
-**Alterações da v2 (28/09/2026):** leitura integral de "pag 55 a 173" (119 de 119 páginas); leitura dos cinco julgados novos (Apelação 0017993-79.2012; AREsp 1.539.138/SP e AgInt; AI 2143351-60.2024; EDcl Ap. 0019853-52.2024). Blocos reescritos: A6, B2, B3, B6, E2, G1, H4, H5, tabela de arquivos, faltantes e jurisprudência.
+**Alterações da v2 (27/09/2026):** leitura integral de "pag 55 a 173" (119 de 119 páginas); leitura dos cinco julgados novos (Apelação 0017993-79.2012; AREsp 1.539.138/SP e AgInt; AI 2143351-60.2024; EDcl Ap. 0019853-52.2024). Blocos reescritos: A6, B2, B3, B6, E2, G1, H4, H5, tabela de arquivos, faltantes e jurisprudência.
 
 ## Arquivos recebidos e status de leitura
 
