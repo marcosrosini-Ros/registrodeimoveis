@@ -4,3 +4,4 @@
 - Sempre citar folhas dos autos nas duas numerações: "fls. N e-SAJ / fls. X física".
 - Não inventar julgados; marcar 🟩/🟨/🟥 conforme verificação.
 - Sempre iniciar o nome de todo arquivo entregue com o prefixo "CLAUDE CODE - " (ex.: "CLAUDE CODE - Relatorio_Resposta_Contraminuta_AI_2186351.docx").
+- Até segunda ordem: entregar os arquivos de resposta somente em Word (.docx); não gerar .md, .pdf ou outros formatos como entregável.
