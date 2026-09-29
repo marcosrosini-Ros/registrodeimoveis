@@ -5,3 +5,4 @@
 - Não inventar julgados; marcar 🟩/🟨/🟥 conforme verificação.
 - Sempre iniciar o nome de todo arquivo entregue com o prefixo "CLAUDE CODE - " (ex.: "CLAUDE CODE - Relatorio_Resposta_Contraminuta_AI_2186351.docx").
 - Até segunda ordem: entregar os arquivos de resposta somente em Word (.docx); não gerar .md, .pdf ou outros formatos como entregável.
+- Nome dos arquivos entregues: o número da versão vem logo depois do prefixo, ex.: "CLAUDE CODE - v3.8 - Auditoria_Adversarial_Manifestacao_AI_2186351.docx".
